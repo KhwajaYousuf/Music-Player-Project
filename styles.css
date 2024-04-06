@@ -62,4 +62,7 @@ nav .circle {
     -webkit-appearence: none;
     width: 100%;
     height: 6px;
+    background: #f53192;
+    border-radius: 4px;
+
 }
