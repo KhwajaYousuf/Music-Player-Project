@@ -64,5 +64,6 @@ nav .circle {
     height: 6px;
     background: #f53192;
     border-radius: 4px;
-
+    cursor: pointer;
+    margin: 40px 0;
 }
