@@ -69,5 +69,6 @@ nav .circle {
 }
 
 #progress::-webkit-slider-thumb {
-    
+    -webkit-appearence: none;
+
 }
